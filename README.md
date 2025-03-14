@@ -10,7 +10,7 @@ sitename = 'Test'
 Line 29 is the code in Muir code and the name was changed to 'Test' on this code
 
 # Changes made below 
-## VegdeSat_DriverTemplate.ipyn  
+## VedgeSat_DriverTemplate.ipyn  
 
 VedgeSat_Driver_Exapmle was merged when loaded onto juptyre notebook under the name TestGower with the following lines edited/taken outwith the line refrencing Muir code 
 
